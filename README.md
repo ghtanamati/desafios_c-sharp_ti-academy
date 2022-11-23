@@ -1,4 +1,4 @@
 # Desafios C# TI Academy + Benner
-## - Animals
-## - Encapsulamento
-## - LivroAutor
+- Animals
+- Encapsulamento
+- LivroAutor
